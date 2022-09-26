@@ -1,3 +1,7 @@
+
+#                                                   Author Details
+#                                             NAME     :    Mahamud Hasan
+
 def rangoli():
     try:
         n = int(input("Enter a number from 1-26: "))
